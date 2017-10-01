@@ -1,4 +1,4 @@
-package com.peoject.tiger;
+package com.project.tiger;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
